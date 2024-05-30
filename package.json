@@ -1,0 +1,26 @@
+{
+  "name": "previousjs",
+  "version": "0.0.1",
+  "description": "React server component framework",
+  "main": "index.js",
+  "type": "module",
+  "packageManager": "pnpm@8.15.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rec0iL99/previous.js.git"
+  },
+  "author": "Joel Mathew Koshy (Rec0iL99)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rec0iL99/previous.js/issues"
+  },
+  "homepage": "https://github.com/Rec0iL99/previous.js#readme",
+  "devDependencies": {
+    "tsconfig.json": "^1.0.11",
+    "typescript": "^5.4.5"
+  }
+}
